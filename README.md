@@ -26,7 +26,7 @@ A productivity and lifestyle mobile app that helps users **track daily habits, g
 ---
 
 ### 🧰 Tech Stack
-- **Languages:** JavaScript, TypeScript, C#
+- **Languages:** JavaScript, TypeScript, java, c
 - **Frameworks:** React Native, Node.js
 - **Tools:** VS Code, Android Studio, Git, Firebase
 
