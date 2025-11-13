@@ -31,5 +31,7 @@ A productivity and lifestyle mobile app that helps users **track daily habits, g
 - **Tools:** VS Code, Android Studio, Git, Firebase
 
 ---
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/khemiri-slim-985401396/recent-activity/all/)
 
 ⭐ *“Code, learn, and build something amazing every day.”*
