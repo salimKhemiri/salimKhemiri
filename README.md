@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Slim!
 
-<!--
-**salimKhemiri/salimKhemiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 20 y/o Computer Science Student | 📱 React Native Developer | 🚀 Creator of Trackora App  
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I'm passionate about building creative and useful mobile applications that make life easier and smarter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+- 👨‍💻 I'm in my **2nd year of Computer Science**  
+- 📱 I build apps using **React Native**  
+- 🧩 I love exploring **mobile UI/UX**, **AI integration**, and **productivity tools**  
+- ☕ Constantly learning, coding, and experimenting with new technologies  
+
+---
+
+### 🚀 My Projects
+#### 🧭 [Trackora App]((https://play.google.com/store/apps/details?id=com.slim11lifeloop)) *(Live on Google Play)*
+A productivity and lifestyle mobile app that helps users **track daily habits, goals, workouts, and nutrition** — all in one place.
+
+#### 💡 Other Works
+- 💬 Working on **AI-powered mobile tools**
+- ⚙️ Learning **backend development** to expand my skills  
+
+---
+
+### 🧰 Tech Stack
+- **Languages:** JavaScript, TypeScript, C#
+- **Frameworks:** React Native, Node.js
+- **Tools:** VS Code, Android Studio, Git, Firebase
+
+---
+
+⭐ *“Code, learn, and build something amazing every day.”*
